@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgendaWeb.Presentation", "AgendaWeb.Presentation\AgendaWeb.Presentation.csproj", "{3AF6A298-3029-4A0E-849B-0E1228BA2705}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgendaWeb.Infra.Data", "AgendaWeb.Infra.Data\AgendaWeb.Infra.Data.csproj", "{4B2914E7-8F06-4B47-99C9-A84D4AB77D02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7B793D2D-ECD4-467D-AD3E-64EAFBA45218}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF6A298-3029-4A0E-849B-0E1228BA2705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF6A298-3029-4A0E-849B-0E1228BA2705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF6A298-3029-4A0E-849B-0E1228BA2705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF6A298-3029-4A0E-849B-0E1228BA2705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2914E7-8F06-4B47-99C9-A84D4AB77D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2914E7-8F06-4B47-99C9-A84D4AB77D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2914E7-8F06-4B47-99C9-A84D4AB77D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2914E7-8F06-4B47-99C9-A84D4AB77D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDEF77FB-EBCB-4BC5-ABD4-2EF058640D18}
+	EndGlobalSection
+EndGlobal

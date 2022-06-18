@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3af6a298-3029-4a0e-849b-0e1228ba2705": {
+      "ProjectGuid": "3af6a298-3029-4a0e-849b-0e1228ba2705",
+      "DisplayName": "AgendaWeb.Presentation",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "4b2914e7-8f06-4b47-99c9-a84d4ab77d02": {
+      "ProjectGuid": "4b2914e7-8f06-4b47-99c9-a84d4ab77d02",
+      "DisplayName": "AgendaWeb.Infra.Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

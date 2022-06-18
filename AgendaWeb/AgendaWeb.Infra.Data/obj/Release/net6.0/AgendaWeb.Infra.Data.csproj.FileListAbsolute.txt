@@ -1,0 +1,24 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\bin\Release\net6.0\AgendaWeb.Infra.Data.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\bin\Release\net6.0\AgendaWeb.Infra.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\bin\Release\net6.0\ref\AgendaWeb.Infra.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\bin\Release\net6.0\AgendaWeb.Infra.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\ref\AgendaWeb.Infra.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper SQS Noite 01\Aula 09 - 23.03.22\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.pdb
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\bin\Release\net6.0\AgendaWeb.Infra.Data.deps.json
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\bin\Release\net6.0\AgendaWeb.Infra.Data.dll
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\bin\Release\net6.0\AgendaWeb.Infra.Data.pdb
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.csproj.AssemblyReference.cache
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.AssemblyInfoInputs.cache
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.AssemblyInfo.cs
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.dll
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\refint\AgendaWeb.Infra.Data.dll
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\AgendaWeb.Infra.Data.pdb
+D:\Material\Módulo 1 - AspNet\Aula 09 pt2 Prática\AgendaWeb\AgendaWeb.Infra.Data\obj\Release\net6.0\ref\AgendaWeb.Infra.Data.dll

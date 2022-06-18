@@ -1,0 +1,110 @@
+﻿@model AgendaWeb.Presentation.Models.TarefaConsultaModel
+
+@{
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<div>
+    <h5>Consulta de Tarefas</h5>
+    <p>Informe o período de datas para pesquisa de tarefas na Agenda.</p>
+    <hr />
+
+    @* Definindo o formulário *@
+    @using (Html.BeginForm())
+    {
+        <div class="row mb-3">
+            <div class="col-md-3">
+
+                <label>Data de início:</label>
+                @Html.TextBoxFor(model => model.DataMin,
+            new { @class = "form-control", @type = "date" })
+
+                <div class="text-danger">
+                    @Html.ValidationMessageFor(model => model.DataMin)
+                </div>
+
+            </div>
+            <div class="col-md-3">
+
+                <label>Data de fim:</label>
+                @Html.TextBoxFor(model => model.DataMax,
+            new { @class = "form-control", @type = "date" })
+
+                <div class="text-danger">
+                    @Html.ValidationMessageFor(model => model.DataMax)
+                </div>
+
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-12">
+
+                <input type="submit" value="Pesquisar Tarefas"
+                   class="btn btn-success" />
+
+            </div>
+        </div>
+    }
+
+    <!-- imprimir a lista de tarefas obtida na consulta -->
+    @if (Model != null && Model.Tarefas != null)
+    {
+        <table class="table table-sm table-hover">
+            <thead>
+                <tr>
+                    <th>Nome da Tarefa</th>
+                    <th>Data</th>
+                    <th>Hora</th>
+                    <th>Prioridade</th>
+                    <th>Descrição</th>
+                    <th>Operações</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Tarefas)
+                {
+                    <tr>
+                        <td>@item.Nome</td>
+                        <td>@item.Data.ToString("dd/MM/yyyy")</td>
+                        <td>@item.Hora.ToString(@"hh\:mm")</td>
+                        <td>
+                            @switch (item.Prioridade)
+                            {
+                                case 1:
+                                    <span class="badge bg-danger">ALTA</span>
+                                    break;
+                                case 2:
+                                    <span class="badge bg-warning">MÉDIA</span>
+                                    break;
+                                case 3:
+                                    <span class="badge bg-success">BAIXA</span>
+                                    break;
+                            }
+                        </td>
+                        <td>@item.Descricao</td>
+                        <td>
+                            <a href="/Tarefa/Edicao?id=@item.IdTarefa"
+                       class="btn btn-primary btn-sm">
+                                Editar
+                            </a>
+                            <a href="/Tarefa/Exclusao?id=@item.IdTarefa"
+                       onclick="return confirm('Deseja excluir a tarefa selecionada?');"
+                       class="btn btn-danger btn-sm">
+                                Excluir
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="3">
+                        Quantidade de tarefas obtidas: @Model.Tarefas.Count
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    }
+
+</div>
+
